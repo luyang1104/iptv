@@ -1,10 +1,3 @@
-Of course. I've replaced the broken `tvg-logo` links with a working source and cleaned up some of the channel metadata for better compatibility with IPTV players.
-
-I used `https://epg.112114.xyz/logo/` as the new source for the logos. I also populated missing `tvg-name` and `tvg-id` attributes where possible based on the channel information available in each line.
-
-Here is the updated M3U playlist content:
-
-```m3u
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml"
 
 #EXTGRP:央视频道
