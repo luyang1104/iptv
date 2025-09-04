@@ -55,7 +55,7 @@ http://39.135.15.93:6610/PLTV/88888888/224/3221225666/1/index.m3u8?fmt=ts2hls
 http://39.135.15.93:6610/PLTV/88888888/224/3221225669/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CGTN-Русский" tvg-name="CGTN 俄语" tvg-logo="https://epg.v1.mk/logo/CGTN俄语.png",CGTN 俄语
 http://39.135.15.93:6610/PLTV/88888888/224/3221225667/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1 中国教育" tvg-logo="https://epg.v1.mk/logo/CETV1中国教育.png",CETV1 中国教育
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1 中国教育" tvg-logo="https://epg.v1.mk/logo/中国教育.png",CETV1 中国教育
 http://39.135.15.93:6610/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 
 # --- 全国卫视 ---
