@@ -143,42 +143,18 @@ http://39.135.15.93:6610/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
 http://39.135.15.93:6610/PLTV/88888888/224/3221225684/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="guiyang4" tvg-name="贵阳法制" tvg-logo="https://epg.v1.mk/logo/贵阳4.png",贵阳法制
 http://39.135.15.93:6610/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="gztv2" tvg-name="贵州科教" tvg-logo="https://epg.v1.mk/logo/贵州2.png",贵州科教
+#EXTINF:-1 tvg-id="gztv2" tvg-name="贵州科教" tvg-logo="https://epg.v1.mk/logo/贵州-2.png",贵州科教
 http://39.135.15.93:6610/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="gztv3" tvg-name="贵州电视剧" tvg-logo="https://epg.v1.mk/logo/贵州3.png",贵州电视剧
+#EXTINF:-1 tvg-id="gztv3" tvg-name="贵州电视剧" tvg-logo="https://epg.v1.mk/logo/贵州-3.png",贵州电视剧
 http://39.135.15.93:6610/PLTV/88888888/224/3221225704/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="gztv4" tvg-name="贵州公共" tvg-logo="https://epg.v1.mk/logo/贵州4.png",贵州公共
+#EXTINF:-1 tvg-id="gztv4" tvg-name="贵州公共" tvg-logo="https://epg.v1.mk/logo/贵州-4.png",贵州公共
 http://39.135.15.93:6610/PLTV/88888888/224/3221225740/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="gztv5" tvg-name="贵州旅游" tvg-logo="https://epg.v1.mk/logo/贵州5.png",贵州旅游
+#EXTINF:-1 tvg-id="gztv5" tvg-name="贵州旅游" tvg-logo="https://epg.v1.mk/logo/贵州-5.png",贵州旅游
 http://39.135.15.93:6610/PLTV/88888888/224/3221225662/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="gztv6" tvg-name="贵州大众" tvg-logo="https://epg.v1.mk/logo/贵州6.png",贵州大众
+#EXTINF:-1 tvg-id="gztv6" tvg-name="贵州大众" tvg-logo="https://epg.v1.mk/logo/贵州-6.png",贵州大众
 http://39.135.15.93:6610/PLTV/88888888/224/3221225672/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="gztv7" tvg-name="贵州法制" tvg-logo="https://epg.v1.mk/logo/贵州7.png",贵州法制
+#EXTINF:-1 tvg-id="gztv7" tvg-name="贵州法制" tvg-logo="https://epg.v1.mk/logo/贵州-7.png",贵州法制
 http://39.135.15.93:6610/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="guiyang-mobile" tvg-name="贵州移动电视" tvg-logo="https://epg.v1.mk/logo/贵州移动电视.png",贵州移动电视
-http://39.135.15.93:6610/PLTV/88888888/224/3221225774/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="zunyi-zh" tvg-name="遵义综合" tvg-logo="https://epg.v1.mk/logo/遵义综合.png",遵义综合
-http://39.135.15.93:6610/PLTV/88888888/224/3221226026/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="zunyi-gg" tvg-name="遵义公共" tvg-logo="https://epg.v1.mk/logo/遵义公共.png",遵义公共
-http://39.135.15.93:6610/PLTV/88888888/224/3221226028/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="zunyi-ds" tvg-name="遵义都市" tvg-logo="https://epg.v1.mk/logo/遵义都市.png",遵义都市
-http://39.135.15.93:6610/PLTV/88888888/224/3221226051/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="anshun-xw" tvg-name="安顺新闻" tvg-logo="https://epg.v1.mk/logo/安顺新闻.png",安顺新闻
-http://39.135.15.93:6610/PLTV/88888888/224/3221226054/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="qiannan-zh" tvg-name="黔南综合" tvg-logo="https://epg.v1.mk/logo/黔南综合.png",黔南综合
-http://39.135.15.93:6610/PLTV/88888888/224/3221226022/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="bijie1" tvg-name="毕节综合" tvg-logo="https://epg.v1.mk/logo/毕节1高清.png",毕节综合
-http://39.135.15.93:6610/PLTV/88888888/224/3221226002/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="qianxinan-zh" tvg-name="黔西南综合" tvg-logo="https://epg.v1.mk/logo/黔西南综合.png",黔西南综合
-http://39.135.15.93:6610/PLTV/88888888/224/3221225995/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="qianxinan-gg" tvg-name="黔西南公共" tvg-logo="https://epg.v1.mk/logo/黔西南公共.png",黔西南公共
-http://39.135.15.93:6610/PLTV/88888888/224/3221226003/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="liupanshui1" tvg-name="六盘水新闻" tvg-logo="https://epg.v1.mk/logo/六盘水1.png",六盘水新闻
-http://39.135.15.93:6610/PLTV/88888888/224/3221225772/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="liupanshui2" tvg-name="六盘水公共" tvg-logo="https://epg.v1.mk/logo/六盘水2.png",六盘水公共
-http://39.135.15.93:6610/PLTV/88888888/224/3221225773/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="leishan-zh" tvg-name="雷山综合" tvg-logo="https://epg.v1.mk/logo/雷山综合.png",雷山综合
-http://39.135.15.93:6610/PLTV/88888888/224/3221225998/1/index.m3u8?fmt=ts2hls
 
 # --- 卡通频道 ---
 #EXTINF:-1 tvg-id="kaku" tvg-name="北京卡酷" tvg-logo="https://epg.v1.mk/logo/北京卡酷.png",北京卡酷
@@ -235,10 +211,4 @@ http://39.135.15.93:6610/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
 http://39.135.15.93:6610/PLTV/88888888/224/3221225736/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="tianyuan" tvg-name="天元围棋" tvg-logo="https://epg.v1.mk/logo/天元围棋.png",天元围棋
 http://39.135.15.93:6610/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="gtv1" tvg-name="G+TV" tvg-logo="https://epg.v1.mk/logo/G+TV.png",G+TV
-http://39.135.15.93:6610/PLTV/88888888/224/3221226007/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="gtv2" tvg-name="G+TV2" tvg-logo="https://epg.v1.mk/logo/G+TV2.png",G+TV2
-http://39.135.15.93:6610/PLTV/88888888/224/3221226033/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="bestv" tvg-name="BestV HD" tvg-logo="https://epg.v1.mk/logo/BestVHD.png",BestV HD
-http://39.135.15.93:6610/PLTV/88888888/224/3221225775/1/index.m3u8?fmt=ts2hls
 
