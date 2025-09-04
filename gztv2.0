@@ -259,35 +259,35 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225687/1/index.m3u8?fmt=t
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225688/1/index.m3u8?fmt=ts2hls
 
 #EXTGRP:地方频道
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州2.png" tvg-id="贵州2" tvg-name="贵州2",贵州2 4M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-2.png" tvg-id="贵州2" tvg-name="贵州2",贵州2 4M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州2.png" tvg-id="贵州2" tvg-name="贵州2",贵州2 8M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-2.png" tvg-id="贵州2" tvg-name="贵州2",贵州2 8M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州3.png" tvg-id="贵州3" tvg-name="贵州3",贵州3 4M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-3.png" tvg-id="贵州3" tvg-name="贵州3",贵州3 4M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226158/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州3.png" tvg-id="贵州3" tvg-name="贵州3",贵州3 4M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-3.png" tvg-id="贵州3" tvg-name="贵州3",贵州3 4M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226287/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州3.png" tvg-id="贵州3" tvg-name="贵州3",贵州3 8M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-3.png" tvg-id="贵州3" tvg-name="贵州3",贵州3 8M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225704/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州4.png" tvg-id="贵州4" tvg-name="贵州4",贵州4 4M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-4.png" tvg-id="贵州4" tvg-name="贵州4",贵州4 4M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226280/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州4.png" tvg-id="贵州4" tvg-name="贵州4",贵州4 8M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-4.png" tvg-id="贵州4" tvg-name="贵州4",贵州4 8M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225740/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州5.png" tvg-id="贵州5" tvg-name="贵州5",贵州5 4M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-5.png" tvg-id="贵州5" tvg-name="贵州5",贵州5 4M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226277/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州5.png" tvg-id="贵州5" tvg-name="贵州5",贵州5 8M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-5.png" tvg-id="贵州5" tvg-name="贵州5",贵州5 8M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225662/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州6.png" tvg-id="贵州6" tvg-name="贵州6",贵州6 3.5M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-6.png" tvg-id="贵州6" tvg-name="贵州6",贵州6 3.5M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226142/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州6.png" tvg-id="贵州6" tvg-name="贵州6",贵州6 4M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-6.png" tvg-id="贵州6" tvg-name="贵州6",贵州6 4M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226293/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州6.png" tvg-id="贵州6" tvg-name="贵州6",贵州6 8M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-6.png" tvg-id="贵州6" tvg-name="贵州6",贵州6 8M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225672/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州7.png" tvg-id="贵州7" tvg-name="贵州7",贵州7 4M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-7.png" tvg-id="贵州7" tvg-name="贵州7",贵州7 4M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州7.png" tvg-id="贵州7" tvg-name="贵州7",贵州7 3.5M1080HEVC
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-7.png" tvg-id="贵州7" tvg-name="贵州7",贵州7 3.5M1080HEVC
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226289/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州7.png" tvg-id="贵州7" tvg-name="贵州7",贵州7 8M1080
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵州-7.png" tvg-id="贵州7" tvg-name="贵州7",贵州7 8M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/贵阳1.png" tvg-id="贵阳1" tvg-name="贵阳1",贵阳1 2.5M1080
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
