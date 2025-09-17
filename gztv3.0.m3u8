@@ -1,3 +1,4 @@
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="📺 央视综合",CCTV1
 http://39.136.12.4:6610/PLTV/88888888/224/3221225726/1/index.m3u8?IASHttpSessionId=OTT
@@ -327,4 +328,4 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226311/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226314/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv.png" group-title="📡 其他综合",cctv
 http://39.136.12.4:6610/PLTV/88888888/224/3221226248/1/index.m3u8?IASHttpSessionId=OTT
-```
+
