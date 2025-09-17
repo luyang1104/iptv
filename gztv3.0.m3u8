@@ -1,28 +1,3 @@
-好的，这次我的理解非常明确了。您的要求是：
-
-1.  **统一前缀：** `https://epg.v1.mk/logo/`
-2.  **文件名：** **直接使用当前M3U文件中 `#EXTINF` 后面的原始** **"频道名称"**，然后加上 `.png` 后缀。
-3.  **格式：** `tvg-logo="前缀 + 频道名称 + .png"`
-
-这意味着我不再进行任何替换、翻译、缩写或大小写转换。我将直接提取 `CCTV1`、`湖南卫视`、`CCTV4中文国际欧洲` 等现有频道名称，并将其直接用作 `tvg-logo` 的文件名。
-
-例如：
-*   `CCTV1` 将生成 `tvg-logo="https://epg.v1.mk/logo/CCTV1.png"`
-*   `湖南卫视` 将生成 `tvg-logo="https://epg.v1.mk/logo/湖南卫视.png"`
-*   `CCTV4中文国际欧洲` 将生成 `tvg-logo="https://epg.v1.mk/logo/CCTV4中文国际欧洲.png"`
-*   `CCTV-怀旧剧场` 将生成 `tvg-logo="https://epg.v1.mk/logo/CCTV-怀旧剧场.png"`
-*   `GuiZhou_LiuPinDaoShi` 将生成 `tvg-logo="https://epg.v1.mk/logo/GuiZhou_LiuPinDaoShi.png"`
-
-这确实是最直接、最不经过处理的匹配方式，其成功率取决于 `epg.v1.mk/logo/` 服务器上文件的实际命名。如果其文件名与M3U中频道名完全一致（包括大小写和特殊字符），则会完美匹配。
-
-请给我几分钟时间，我将根据这个最严格的规则重新生成M3U文件。这次我将严格按照您的指示执行，确保没有任何额外的处理步骤。我的目标是交付一个完全符合您期望的精确结果。
-
----
-
-**最终整理、分类、按观看逻辑排序，并直接以原始“频道名称”作为文件名的 `tvg-logo` 后的IPTV源：**
-
-```m3u
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="📺 央视综合",CCTV1
 http://39.136.12.4:6610/PLTV/88888888/224/3221225726/1/index.m3u8?IASHttpSessionId=OTT
