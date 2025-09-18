@@ -323,7 +323,7 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226348/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226351/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K (高清)" tvg-logo="https://epg.v1.mk/logo/CCTV16 4K.png" group-title="4K超高清",CCTV-16 4K (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226356/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="SiTV欢笑剧场" tvg-name="欢笑剧场4K (高清)" tvg-logo="https://epg.v1.mk/logo/欢笑剧场4K.png" group-title="4K超高清",欢笑剧场4K (高清)
+#EXTINF:-1 tvg-id="人文贵州" tvg-name="人文贵州 (高清)" tvg-logo="https://epg.v1.mk/logo/欢笑剧场4K.png" group-title="4K超高清",人文贵州 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226210/1/index.m3u8?IASHttpSessionId=OTT
 
 #EXTGROUP:咪咕专区
@@ -369,9 +369,9 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226226/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226152/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育 (高清)" tvg-logo="https://epg.v1.mk/logo/咪咕体育.png" group-title="咪咕专区",咪咕体育 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226151/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="咪咕体育广东" tvg-name="咪咕体育广东 (高清)" tvg-logo="https://epg.v1.mk/logo/咪咕体育广东.png" group-title="咪咕专区",咪咕体育广东 (高清)
+#EXTINF:-1 tvg-id="人文贵州" tvg-name="人文贵州 (高清)" tvg-logo="https://epg.v1.mk/logo/咪咕体育广东.png" group-title="咪咕专区",人文贵州 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226220/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="咪咕体育四川" tvg-name="咪咕体育四川 (高清)" tvg-logo="https://epg.v1.mk/logo/咪咕体育四川.png" group-title="咪咕专区",咪咕体育四川 (高清)
+#EXTINF:-1 tvg-id="人文贵州" tvg-name="人文贵州 (高清)" tvg-logo="https://epg.v1.mk/logo/咪咕体育四川.png" group-title="咪咕专区",人文贵州 (高清) (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226267/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="咪咕音乐1" tvg-name="咪咕音乐1 (高清)" tvg-logo="https://epg.v1.mk/logo/咪咕音乐1.png" group-title="咪咕专区",咪咕音乐1 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226306/1/index.m3u8?IASHttpSessionId=OTT
@@ -391,9 +391,9 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226101/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226336/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="海底漫直播" tvg-name="海底漫直播 (高清)" tvg-logo="https://epg.v1.mk/logo/海底漫直播.png" group-title="其他综合",海底漫直播 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226163/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="健康贵州" tvg-name="H265 测试 CH408 (高清)" tvg-logo="https://epg.v1.mk/logo/健康贵州.png" group-title="其他综合",健康贵州 (高清)
+#EXTINF:-1 tvg-id="健康贵州" tvg-name="人文贵州 (高清)" tvg-logo="https://epg.v1.mk/logo/健康贵州.png" group-title="其他综合",健康贵州 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226311/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="健康贵州" tvg-name="H265 测试 CH409 (高清)" tvg-logo="https://epg.v1.mk/logo/健康贵州.png" group-title="其他综合",健康贵州 (高清)
+#EXTINF:-1 tvg-id="健康贵州" tvg-name="人文贵州 (高清)" tvg-logo="https://epg.v1.mk/logo/健康贵州.png" group-title="其他综合",人文贵州 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226314/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV (高清)" tvg-logo="https://epg.v1.mk/logo/CCTV.png" group-title="其他综合",CCTV (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226248/1/index.m3u8?IASHttpSessionId=OTT
