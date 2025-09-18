@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml"
+
 #EXTGROUP:央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合 (高清)" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1 综合 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225726/1/index.m3u8?IASHttpSessionId=OTT
