@@ -288,11 +288,6 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226148/1/index.m3u8?IASHttpSession
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教 (高清)" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="纪实探索",北京纪实科教 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226075/1/index.m3u8?IASHttpSessionId=OTT
 
-#EXTGROUP:影视娱乐
-#EXTINF:-1 tvg-id="SiTV都市剧场" tvg-name="SiTV 都市剧场 (3.5M HEVC)" tvg-logo="https://epg.v1.mk/logo/SiTV都市剧场.png" group-title="影视娱乐",SiTV 都市剧场 (3.5M HEVC)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226315/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="SiTV欢笑剧场" tvg-name="SiTV 欢笑剧场 (高清)" tvg-logo="https://epg.v1.mk/logo/SiTV欢笑剧场.png" group-title="影视娱乐",SiTV 欢笑剧场 (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226210/1/index.m3u8?IASHttpSessionId=OTT
 
 #EXTGROUP:购物生活
 #EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物 (高清)" tvg-logo="https://epg.v1.mk/logo/家有购物.png" group-title="购物生活",家有购物 (高清)
