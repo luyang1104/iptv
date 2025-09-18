@@ -167,19 +167,19 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221225722/1/index.m3u8?IASHttpSession
 #EXTGROUP:贵州本地频道
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视 (高清)" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="贵州本地频道",贵州卫视 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225703/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="贵州2" tvg-name="贵州2 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州2.png" group-title="贵州本地频道",贵州2 (4M)
+#EXTINF:-1 tvg-id="贵州2" tvg-name="贵州2 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州-2.png" group-title="贵州本地频道",贵州2 (4M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225682/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="贵州2" tvg-name="贵州2 (高清)" tvg-logo="https://epg.v1.mk/logo/贵州2.png" group-title="贵州本地频道",贵州2 (高清)
+#EXTINF:-1 tvg-id="贵州2" tvg-name="贵州2 (高清)" tvg-logo="https://epg.v1.mk/logo/贵州-2.png" group-title="贵州本地频道",贵州2 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226119/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="贵州3" tvg-name="贵州3 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州3.png" group-title="贵州本地频道",贵州3 (4M)
+#EXTINF:-1 tvg-id="贵州3" tvg-name="贵州3 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州-3.png" group-title="贵州本地频道",贵州3 (4M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225704/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="贵州4" tvg-name="贵州4 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州4.png" group-title="贵州本地频道",贵州4 (4M)
+#EXTINF:-1 tvg-id="贵州4" tvg-name="贵州4 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州-4.png" group-title="贵州本地频道",贵州4 (4M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225740/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="贵州5" tvg-name="贵州5 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州5.png" group-title="贵州本地频道",贵州5 (4M)
+#EXTINF:-1 tvg-id="贵州5" tvg-name="贵州5 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州-5.png" group-title="贵州本地频道",贵州5 (4M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225662/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="贵州6" tvg-name="贵州6 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州6.png" group-title="贵州本地频道",贵州6 (4M)
+#EXTINF:-1 tvg-id="贵州6" tvg-name="贵州6 (4M)" tvg-logo="https://epg.v1.mk/logo/贵州-6.png" group-title="贵州本地频道",贵州6 (4M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225672/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="贵州7" tvg-name="贵州7 (高清)" tvg-logo="https://epg.v1.mk/logo/贵州7.png" group-title="贵州本地频道",贵州7 (高清)
+#EXTINF:-1 tvg-id="贵州7" tvg-name="贵州7 (高清)" tvg-logo="https://epg.v1.mk/logo/贵州-7.png" group-title="贵州本地频道",贵州7 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225741/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="贵州移动电视" tvg-name="贵州移动电视 (高清)" tvg-logo="https://epg.v1.mk/logo/贵州移动电视.png" group-title="贵州本地频道",贵州移动电视 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225774/1/index.m3u8?IASHttpSessionId=OTT
@@ -391,9 +391,9 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226101/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226336/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="海底漫直播" tvg-name="海底漫直播 (高清)" tvg-logo="https://epg.v1.mk/logo/海底漫直播.png" group-title="其他综合",海底漫直播 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226163/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="H265测试CH408" tvg-name="H265 测试 CH408 (高清)" tvg-logo="https://epg.v1.mk/logo/H265测试CH408.png" group-title="其他综合",H265 测试 CH408 (高清)
+#EXTINF:-1 tvg-id="健康贵州" tvg-name="H265 测试 CH408 (高清)" tvg-logo="https://epg.v1.mk/logo/健康贵州.png" group-title="其他综合",健康贵州 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226311/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="H265测试CH409" tvg-name="H265 测试 CH409 (高清)" tvg-logo="https://epg.v1.mk/logo/H265测试CH409.png" group-title="其他综合",H265 测试 CH409 (高清)
+#EXTINF:-1 tvg-id="健康贵州" tvg-name="H265 测试 CH409 (高清)" tvg-logo="https://epg.v1.mk/logo/健康贵州.png" group-title="其他综合",健康贵州 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226314/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV (高清)" tvg-logo="https://epg.v1.mk/logo/CCTV.png" group-title="其他综合",CCTV (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226248/1/index.m3u8?IASHttpSessionId=OTT
