@@ -227,15 +227,15 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226075/1/index.m3u8?IASHttpSession
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/家有购物.png" group-title="🛍️ 购物生活",家有购物
 http://39.136.12.4:6610/PLTV/88888888/224/3221226057/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/ZhongHuaTeChan_4M.png" group-title="🛍️ 购物生活",ZhongHuaTeChan_4M
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/中华特产.png" group-title="🛍️ 购物生活",中华特产-4M
 http://39.136.12.4:6610/PLTV/88888888/224/3221226347/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/中华美食.png" group-title="🛍️ 购物生活",中华美食
 http://39.136.12.4:6610/PLTV/88888888/224/3221226350/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="🛍️ 购物生活",睛彩广场舞
 http://39.136.12.4:6610/PLTV/88888888/224/3221226342/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV-女性时尚.png" group-title="🛍️ 购物生活",CCTV-女性时尚
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV女性时尚.png" group-title="🛍️ 购物生活",CCTV-女性时尚
 http://39.136.12.4:6610/PLTV/88888888/224/3221225699/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV-电视指南.png" group-title="🛍️ 购物生活",CCTV-电视指南
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV电视指南.png" group-title="🛍️ 购物生活",CCTV-电视指南
 http://39.136.12.4:6610/PLTV/88888888/224/3221226120/1/index.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="🔬 纪实探索",金鹰纪实
