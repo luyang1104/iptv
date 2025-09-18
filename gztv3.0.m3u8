@@ -263,7 +263,7 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226348/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226351/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV16-4K.png" group-title="⚡ 4K超高清",CCTV16 4K
 http://39.136.12.4:6610/PLTV/88888888/224/3221226356/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/HuanXiaoJuChang-4k_H265_4M_ZaiBei.png" group-title="⚡ 4K超高清",HuanXiaoJuChang-4k_H265_4M_ZaiBei
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/欢笑剧场4k_H265_4M_ZaiBei.png" group-title="⚡ 4K超高清",欢笑剧场-4K
 http://39.136.12.4:6610/PLTV/88888888/224/3221226210/1/index.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/咪咕-2.png" group-title="📱 咪咕专区",咪咕-2
