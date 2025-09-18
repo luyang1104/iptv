@@ -189,8 +189,6 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226159/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221225743/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="贵阳2" tvg-name="贵阳2 (高清)" tvg-logo="https://epg.v1.mk/logo/贵阳2.png" group-title="贵州本地频道",贵阳2 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225684/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="贵阳4" tvg-name="贵阳4 (高清)" tvg-logo="https://epg.v1.mk/logo/贵阳4.png" group-title="贵州本地频道",贵阳4 (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221225705/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="黔西新闻" tvg-name="黔西新闻 (4M)" tvg-logo="https://epg.v1.mk/logo/黔西新闻.png" group-title="贵州本地频道",黔西新闻 (4M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225693/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="黔西南综合" tvg-name="黔西南综合 (4M)" tvg-logo="https://epg.v1.mk/logo/黔西南综合.png" group-title="贵州本地频道",黔西南综合 (4M)
@@ -199,13 +197,13 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221225995/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226003/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="雷山综合" tvg-name="雷山综合 (高清)" tvg-logo="https://epg.v1.mk/logo/雷山综合.png" group-title="贵州本地频道",雷山综合 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225998/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="毕节1" tvg-name="毕节1 (高清)" tvg-logo="https://epg.v1.mk/logo/毕节1.png" group-title="贵州本地频道",毕节1 (高清)
+#EXTINF:-1 tvg-id="毕节1" tvg-name="毕节1 (高清)" tvg-logo="https://epg.v1.mk/logo/毕节-1.png" group-title="贵州本地频道",毕节1 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226002/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="毕节2" tvg-name="毕节2 (高清)" tvg-logo="https://epg.v1.mk/logo/毕节2.png" group-title="贵州本地频道",毕节2 (高清)
+#EXTINF:-1 tvg-id="毕节2" tvg-name="毕节2 (高清)" tvg-logo="https://epg.v1.mk/logo/毕节-2.png" group-title="贵州本地频道",毕节2 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226133/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="黔南1" tvg-name="黔南1 (576P)" tvg-logo="https://epg.v1.mk/logo/黔南1.png" group-title="贵州本地频道",黔南1 (576P)
+#EXTINF:-1 tvg-id="黔南1" tvg-name="黔南1 (576P)" tvg-logo="https://epg.v1.mk/logo/黔南-1.png" group-title="贵州本地频道",黔南1 (576P)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226022/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="黔南2" tvg-name="黔南2 (576P)" tvg-logo="https://epg.v1.mk/logo/黔南2.png" group-title="贵州本地频道",黔南2 (576P)
+#EXTINF:-1 tvg-id="黔南2" tvg-name="黔南2 (576P)" tvg-logo="https://epg.v1.mk/logo/黔南-2.png" group-title="贵州本地频道",黔南2 (576P)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226025/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="遵义综合" tvg-name="遵义综合 (3.5M)" tvg-logo="https://epg.v1.mk/logo/遵义综合.png" group-title="贵州本地频道",遵义综合 (3.5M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226026/1/index.m3u8?IASHttpSessionId=OTT
@@ -221,11 +219,11 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226054/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226034/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="凯里" tvg-name="凯里 (高清)" tvg-logo="https://epg.v1.mk/logo/凯里.png" group-title="贵州本地频道",凯里 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226062/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="六盘水1" tvg-name="六盘水1 (3.5M)" tvg-logo="https://epg.v1.mk/logo/六盘水1.png" group-title="贵州本地频道",六盘水1 (3.5M)
+#EXTINF:-1 tvg-id="六盘水1" tvg-name="六盘水1 (3.5M)" tvg-logo="https://epg.v1.mk/logo/六盘水-1.png" group-title="贵州本地频道",六盘水1 (3.5M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225772/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="六盘水2" tvg-name="六盘水2 (3.5M)" tvg-logo="https://epg.v1.mk/logo/六盘水2.png" group-title="贵州本地频道",六盘水2 (3.5M)
+#EXTINF:-1 tvg-id="六盘水2" tvg-name="六盘水2 (3.5M)" tvg-logo="https://epg.v1.mk/logo/六盘水-2.png" group-title="贵州本地频道",六盘水2 (3.5M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225773/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="铜仁1综合" tvg-name="铜仁1 综合 (高清)" tvg-logo="https://epg.v1.mk/logo/铜仁1综合.png" group-title="贵州本地频道",铜仁1 综合 (高清)
+#EXTINF:-1 tvg-id="铜仁1综合" tvg-name="铜仁1 综合 (高清)" tvg-logo="https://epg.v1.mk/logo/铜仁-1综合.png" group-title="贵州本地频道",铜仁1 综合 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225775/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="铜仁2公共" tvg-name="铜仁2 公共 (高清)" tvg-logo="https://epg.v1.mk/logo/铜仁2公共.png" group-title="贵州本地频道",铜仁2 公共 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226102/1/index.m3u8?IASHttpSessionId=OTT
@@ -273,7 +271,7 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226116/1/index.m3u8?IASHttpSession
 #EXTGROUP:体育赛事
 #EXTINF:-1 tvg-id="CCTV5Plus_4M_HD" tvg-name="CCTV-5+ 体育赛事 (4M)" tvg-logo="https://epg.v1.mk/logo/CCTV5plus.png" group-title="体育赛事",CCTV-5+ 体育赛事 (4M)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226128/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="CCTV5Plus_4M_HD_v2" tvg-name="CCTV-5+ 体育赛事 (4M) (备用)" tvg-logo="https://epg.v1.mk/logo/CCTV5plus.png" group-title="体育赛事",CCTV-5+ 体育赛事 (4M) (备用)
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事 (4M) (备用)" tvg-name="CCTV-5+ 体育赛事 (4M) (备用)" tvg-logo="https://epg.v1.mk/logo/CCTV5plus.png" group-title="体育赛事",CCTV-5+ 体育赛事 (4M) (备用)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226285/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋 (576P)" tvg-logo="https://epg.v1.mk/logo/天元围棋.png" group-title="体育赛事",天元围棋 (576P)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225714/1/index.m3u8?IASHttpSessionId=OTT
