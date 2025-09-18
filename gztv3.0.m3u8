@@ -251,17 +251,17 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221225676/1/index.m3u8?IASHttpSession
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/北京卫视4K-50P(5.1).png" group-title="⚡ 4K超高清",北京卫视4K-50P(5.1)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226315/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/北京卫视4K-50P（5.1声道）.png" group-title="⚡ 4K超高清",北京卫视4K-50P（5.1声道）
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="⚡ 4K超高清",北京卫视4K-50P（5.1声道）
 http://39.136.12.4:6610/PLTV/88888888/224/3221226345/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="⚡ 4K超高清",北京卫视4K
 http://39.136.12.4:6610/PLTV/88888888/224/3221226359/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV4K.png" group-title="⚡ 4K超高清",CCTV4K
 http://39.136.12.4:6610/PLTV/88888888/224/3221226319/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV4K-50P.png" group-title="⚡ 4K超高清",CCTV4K-50P
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV4K.png" group-title="⚡ 4K超高清",CCTV4K-50P
 http://39.136.12.4:6610/PLTV/88888888/224/3221226348/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV16 4K-25P.png" group-title="⚡ 4K超高清",CCTV16 4K-25P
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV16-4K.png" group-title="⚡ 4K超高清",CCTV16 4K-25P
 http://39.136.12.4:6610/PLTV/88888888/224/3221226351/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV16 4K.png" group-title="⚡ 4K超高清",CCTV16 4K
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV16-4K.png" group-title="⚡ 4K超高清",CCTV16 4K
 http://39.136.12.4:6610/PLTV/88888888/224/3221226356/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/HuanXiaoJuChang-4k_H265_4M_ZaiBei.png" group-title="⚡ 4K超高清",HuanXiaoJuChang-4k_H265_4M_ZaiBei
 http://39.136.12.4:6610/PLTV/88888888/224/3221226210/1/index.m3u8?IASHttpSessionId=OTT
