@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://112114.xyz/pp.xml"  <- 如果有 EPG 文件，这里可以加上
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"  <- 如果有 EPG 文件，这里可以加上
 
 #EXTGROUP:贵州本地频道
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视 高清" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="贵州本地频道",贵州卫视
