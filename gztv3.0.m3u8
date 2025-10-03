@@ -314,7 +314,7 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226319/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226348/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K-25P (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K.png" group-title="4K超高清",CCTV-16 4K-25P (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226351/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K" group-title="4K超高清",CCTV-16 4K (高清)
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K.png" group-title="4K超高清",CCTV-16 4K (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226356/1/index.m3u8?IASHttpSessionId=OTT
 
 
