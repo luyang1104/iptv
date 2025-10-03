@@ -299,25 +299,53 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226342/1/index.m3u8?IASHttpSession
 #EXTINF:-1 tvg-id="靓妆频道" tvg-name="靓妆频道 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/靓妆频道.png" group-title="购物生活",靓妆频道 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225680/1/index.m3u8?IASHttpSessionId=OTT
 
+
 #EXTGROUP:4K超高清
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视 4K-50P (5.1声道) " tvg-logo="http://192.168.8.168:8000/i/IPTV台标/北京卫视4K.png" group-title="4K超高清",北京卫视 4K-50P (5.1声道) 
-http://39.136.12.4:6610/PLTV/88888888/224/3221226345/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视 4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/北京卫视4K.png" group-title="4K超高清",北京卫视 4K (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226359/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视 (4K)" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="4K超高清",深圳卫视（4K）
-http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226365/742443264.smil/index.m3u8?fmt=ts2hls&rrsip=cdnzxrrs.gz.chinamobile.com:6060&zoneoffset=480&servicetype=1&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视 (4K)" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="4K超高清",广东卫视（4K）
-http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226362/742442878.smil/index.m3u8?fmt=ts2hls&rrsip=cdnzxrrs.gz.chinamobile.com:6060&zoneoffset=480&servicetype=1&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV4K.png" group-title="4K超高清",CCTV-4K (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226319/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K (50P)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV4K.png" group-title="4K超高清",CCTV-4K (50P)
+
+
+
+#EXTINF:-1 tvg-id="CCTV4K-50P" tvg-name="CCTV-4K (50P)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV4K.png" group-title="4K超高清",CCTV-4K (50P)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226348/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K-25P (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K.png" group-title="4K超高清",CCTV-16 4K-25P (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226351/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K.png" group-title="4K超高清",CCTV-16 4K (高清)
+#EXTINF:-1 tvg-id="CCTV4K-HD" tvg-name="CCTV-4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV4K.png" group-title="4K超高清",CCTV-4K (高清)
+http://39.136.12.4:6610/PLTV/88888888/224/3221226319/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="CCTV16-4K-50P" tvg-name="CCTV-16 4K (50P)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K.png" group-title="4K超高清",CCTV-16 4K (50P)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226356/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="芒果4K" tvg-name="芒果4K" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/芒果4K.png" group-title="4K超高清",芒果4K超高清
-http://39.136.12.4:6610/PLTV/88888888/224/3221226308/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="CCTV16-4K-25P" tvg-name="CCTV-16 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K.png" group-title="4K超高清",CCTV-16 4K-25P (高清)
+http://39.136.12.4:6610/PLTV/88888888/224/3221226351/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="BTV-4K-50P" tvg-name="北京卫视 4K-50P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/北京卫视4K.png" group-title="4K超高清",北京卫视 4K-50P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226345/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="BTV-4K-25P" tvg-name="北京卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/北京卫视4K.png" group-title="4K超高清",北京卫视 4K-25P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226359/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="DRTV-4K-50P" tvg-name="东方卫视 4K-50P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/东方卫视4K.png" group-title="4K超高清",东方卫视 4K-50P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226363/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="DRTV-4K-25P" tvg-name="东方卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/东方卫视4K.png" group-title="4K超高清",东方卫视 4K-25P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226374/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="GDTV-4K-25P" tvg-name="广东卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/广东卫视4K.png" group-title="4K超高清",广东卫视 4K-25P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226362/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="HNTV-4K-50P" tvg-name="湖南卫视 4K-50P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/湖南卫视4K.png" group-title="4K超高清",湖南卫视 4K-50P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226360/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="HNTV-4K-25P" tvg-name="湖南卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/湖南卫视4K.png" group-title="4K超高清",湖南卫视 4K-25P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226354/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="JSTV-4K-50P" tvg-name="江苏卫视 4K-50P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/江苏卫视4K.png" group-title="4K超高清",江苏卫视 4K-50P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226337/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="JSTV-4K-25P" tvg-name="江苏卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/江苏卫视4K.png" group-title="4K超高清",江苏卫视 4K-25P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226357/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="SDTV-4K-50P" tvg-name="山东卫视 4K-50P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/山东卫视4K.png" group-title="4K超高清",山东卫视 4K-50P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226383/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="SDTV-4K-25P" tvg-name="山东卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/山东卫视4K.png" group-title="4K超高清",山东卫视 4K-25P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226334/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="SZTV-4K-25P" tvg-name="深圳卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/深圳卫视4K.png" group-title="4K超高清",深圳卫视 4K-25P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226365/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="SCTV-4K-50P" tvg-name="四川卫视 4K-50P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/四川卫视4K.png" group-title="4K超高清",四川卫视 4K-50P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226380/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="SCTV-4K-25P" tvg-name="四川卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/四川卫视4K.png" group-title="4K超高清",四川卫视 4K-25P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226377/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="ZJTV-4K-50P" tvg-name="浙江卫视 4K-50P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/浙江卫视4K.png" group-title="4K超高清",浙江卫视 4K-50P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226340/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="ZJTV-4K-25P-A" tvg-name="浙江卫视 4K-25P (A)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/浙江卫视4K.png" group-title="4K超高清",浙江卫视 4K-25P (A)
+http://39.136.12.4:6610/PLTV/88888888/224/3221226365/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="ZJTV-4K-25P-B" tvg-name="浙江卫视 4K-25P (B)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/浙江卫视4K.png" group-title="4K超高清",浙江卫视 4K-25P (B)
+http://39.136.12.4:6610/PLTV/88888888/224/3221226331/1/index.m3u8?IASHttpSessionId=OTT
 
 
 #EXTGROUP:咪咕专区
