@@ -241,6 +241,8 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221225736/1/index.m3u8?IASHttpSession
 #EXTGROUP:教育文化
 #EXTINF:-1 tvg-id="CETV1" tvg-name="中国教育电视台1 (高清)" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="教育文化",中国教育电视台1 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225723/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="CETV2" tvg-name="中国教育电视台2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="教育文化",中国教育电视台1 
+http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226332/461226371.smil/index.m3u8?fmt=ts2hls&rrsip=cdnzxrrs.gz.chinamobile.com:6060&zoneoffset=480&servicetype=1&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2
 #EXTINF:-1 tvg-id="CETV4" tvg-name="中国教育电视台4 (高清)" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="教育文化",中国教育电视台4 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226338/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="中国教育电视台早期教育" tvg-name="中国教育电视台 早期教育 (高清)" tvg-logo="https://epg.v1.mk/logo/中国教育电视台早期教育.png" group-title="教育文化",中国教育电视台 早期教育 (高清)
@@ -298,14 +300,16 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226350/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226342/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="靓妆频道" tvg-name="靓妆频道 (高清)" tvg-logo="https://epg.v1.mk/logo/靓妆频道.png" group-title="购物生活",靓妆频道 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225680/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="SiTV 生活时尚 (高清)" tvg-logo="https://epg.v1.mk/logo/SiTV生活时尚.png" group-title="购物生活",SiTV 生活时尚 (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226195/1/index.m3u8?IASHttpSessionId=OTT
 
 #EXTGROUP:4K超高清
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视 4K-50P (5.1声道) " tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="4K超高清",北京卫视 4K-50P (5.1声道) 
 http://39.136.12.4:6610/PLTV/88888888/224/3221226345/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视 4K (高清)" tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="4K超高清",北京卫视 4K (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226359/1/index.m3u8?IASHttpSessionId=OTT
+http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226353/609394704_mdn_1.smil/index.m3u8?fmt=ts2hls&rrsip=cdnzxrrs.gz.chinamobile.com:6060&zoneoffset=480&servicetype=1&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视 (4K)" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="4K超高清",深圳卫视（4K）
+http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226365/742443264.smil/index.m3u8?fmt=ts2hls&rrsip=cdnzxrrs.gz.chinamobile.com:6060&zoneoffset=480&servicetype=1&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视 (4K)" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="4K超高清",广东卫视（4K）
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K (高清)" tvg-logo="https://epg.v1.mk/logo/CCTV4K.png" group-title="4K超高清",CCTV-4K (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226319/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K (50P)" tvg-logo="https://epg.v1.mk/logo/CCTV4K.png" group-title="4K超高清",CCTV-4K (50P)
@@ -314,8 +318,7 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226348/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226351/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K (高清)" tvg-logo="https://epg.v1.mk/logo/CCTV16 4K.png" group-title="4K超高清",CCTV-16 4K (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226356/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="人文贵州" tvg-name="人文贵州 (高清)" tvg-logo="https://epg.v1.mk/logo/欢笑剧场4K.png" group-title="4K超高清",人文贵州 (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226210/1/index.m3u8?IASHttpSessionId=OTT
+
 
 #EXTGROUP:咪咕专区
 #EXTINF:-1 tvg-id="咪咕2" tvg-name="咪咕2 (高清)" tvg-logo="https://epg.v1.mk/logo/咪咕2.png" group-title="咪咕专区",咪咕2 (高清)
@@ -376,12 +379,6 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226292/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226323/1/index.m3u8?IASHttpSessionId=OTT
 
 #EXTGROUP:其他综合
-#EXTINF:-1 tvg-id="铁路电视" tvg-name="铁路电视 (高清)" tvg-logo="https://epg.v1.mk/logo/铁路电视.png" group-title="其他综合",铁路电视 (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226101/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="铁路电视" tvg-name="铁路电视 (720P)" tvg-logo="https://epg.v1.mk/logo/铁路电视720P.png" group-title="其他综合",铁路电视 (720P)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226336/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="海底漫直播" tvg-name="海底漫直播 (高清)" tvg-logo="https://epg.v1.mk/logo/海底漫直播.png" group-title="其他综合",海底漫直播 (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226163/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="健康贵州" tvg-name="人文贵州 (高清)" tvg-logo="https://epg.v1.mk/logo/健康贵州.png" group-title="其他综合",人文贵州 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226314/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV (高清)" tvg-logo="https://epg.v1.mk/logo/CCTV.png" group-title="其他综合",CCTV (高清)
