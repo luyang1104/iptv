@@ -304,10 +304,10 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221225680/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226345/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视 4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/北京卫视4K.png" group-title="4K超高清",北京卫视 4K (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226359/1/index.m3u8?IASHttpSessionId=OTT
-http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226353/609394704_mdn_1.smil/index.m3u8?fmt=ts2hls&rrsip=cdnzxrrs.gz.chinamobile.com:6060&zoneoffset=480&servicetype=1&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视 (4K)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/深圳卫视.png" group-title="4K超高清",深圳卫视（4K）
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视 (4K)" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="4K超高清",深圳卫视（4K）
 http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226365/742443264.smil/index.m3u8?fmt=ts2hls&rrsip=cdnzxrrs.gz.chinamobile.com:6060&zoneoffset=480&servicetype=1&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视 (4K)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/广东卫视.png" group-title="4K超高清",广东卫视（4K）
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视 (4K)" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="4K超高清",广东卫视（4K）
+http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226362/742442878.smil/index.m3u8?fmt=ts2hls&rrsip=cdnzxrrs.gz.chinamobile.com:6060&zoneoffset=480&servicetype=1&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV4K.png" group-title="4K超高清",CCTV-4K (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226319/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K (50P)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV4K.png" group-title="4K超高清",CCTV-4K (50P)
@@ -316,6 +316,8 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226348/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226351/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K.png" group-title="4K超高清",CCTV-16 4K (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226356/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="芒果4K" tvg-name="芒果4K" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/芒果4K.png" group-title="4K超高清",芒果4K超高清
+http://39.136.12.4:6610/PLTV/88888888/224/3221226308/1/index.m3u8?IASHttpSessionId=OTT
 
 
 #EXTGROUP:咪咕专区
@@ -365,10 +367,6 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226151/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226220/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="人文贵州" tvg-name="人文贵州 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/咪咕体育四川.png" group-title="咪咕专区",人文贵州 (高清) (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226267/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="咪咕音乐1" tvg-name="咪咕音乐1 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/咪咕音乐1.png" group-title="咪咕专区",咪咕音乐1 (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226306/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="咪咕音乐2" tvg-name="咪咕音乐2 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/咪咕音乐2.png" group-title="咪咕专区",咪咕音乐2 (高清)
-http://39.136.12.4:6610/PLTV/88888888/224/3221226308/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="咪咕 睛彩青少 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/睛彩青少.png" group-title="咪咕专区",咪咕 睛彩青少 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226160/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="咪咕 睛彩竞技 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/睛彩竞技.png" group-title="咪咕专区",咪咕 睛彩竞技 (高清)
