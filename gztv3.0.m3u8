@@ -283,7 +283,7 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221225714/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221225671/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/环球奇观.png" group-title="纪实探索",环球奇观 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225681/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="巨鲨环球" tvg-name="巨鲨环球 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/巨鲨环球.png" group-title="纪实探索",巨鲨环球 (高清)
+#EXTINF:-1 tvg-id="聚鲨环球" tvg-name="聚鲨环球 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/聚鲨环球.png" group-title="纪实探索",巨鲨环球 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226148/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/北京纪实科教.png" group-title="纪实探索",北京纪实科教 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226075/1/index.m3u8?IASHttpSessionId=OTT
