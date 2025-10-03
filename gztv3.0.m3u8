@@ -245,7 +245,7 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221225723/1/index.m3u8?IASHttpSession
 http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226332/461226371.smil/index.m3u8?fmt=ts2hls&rrsip=cdnzxrrs.gz.chinamobile.com:6060&zoneoffset=480&servicetype=1&icpid=115&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2
 #EXTINF:-1 tvg-id="CETV4" tvg-name="中国教育电视台4 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CETV4.png" group-title="教育文化",中国教育电视台4 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226338/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="中国教育电视台早期教育" tvg-name="中国教育电视台 早期教育 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/中国教育电视台早期教育.png" group-title="教育文化",中国教育电视台 早期教育 (高清)
+#EXTINF:-1 tvg-id="早期教育" tvg-name="中国教育电视台 早期教育 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/早期教育.png" group-title="教育文化",早期教育 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226304/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/山东教育卫视.png" group-title="教育文化",山东教育卫视 (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221225764/1/index.m3u8?IASHttpSessionId=OTT
@@ -314,9 +314,9 @@ http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226365/742443264.s
 http://39.136.12.4:6610/PLTV/88888888/224/3221226319/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K (50P)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV4K.png" group-title="4K超高清",CCTV-4K (50P)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226348/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K-25P (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16 4K.png" group-title="4K超高清",CCTV-16 4K-25P (高清)
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K-25P (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K.png" group-title="4K超高清",CCTV-16 4K-25P (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226351/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16 4K.png" group-title="4K超高清",CCTV-16 4K (高清)
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/CCTV16-4K" group-title="4K超高清",CCTV-16 4K (高清)
 http://39.136.12.4:6610/PLTV/88888888/224/3221226356/1/index.m3u8?IASHttpSessionId=OTT
 
 
