@@ -337,11 +337,10 @@ http://39.136.12.4:6610/PLTV/88888888/224/3221226365/1/index.m3u8?IASHttpSession
 http://39.136.12.4:6610/PLTV/88888888/224/3221226380/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="SCTV-4K-25P" tvg-name="四川卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/四川卫视4K.png" group-title="4K超高清",四川卫视 4K-25P
 http://39.136.12.4:6610/PLTV/88888888/224/3221226377/1/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="ZJTV-4K-50P" tvg-name="浙江卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/浙江卫视4K.png" group-title="4K超高清",浙江卫视 4K-50P
+http://39.136.12.4:6610/PLTV/88888888/224/3221226331/1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="ZJTV-4K-50P" tvg-name="浙江卫视 4K-50P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/浙江卫视4K.png" group-title="4K超高清",浙江卫视 4K-50P
 http://39.136.12.4:6610/PLTV/88888888/224/3221226340/1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="ZJTV-4K-25P" tvg-name="浙江卫视 4K-25P" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/浙江卫视4K.png" group-title="4K超高清",浙江卫视 4K-25P
-http://39.136.12.4:6610/PLTV/88888888/224/3221226365/1/index.m3u8?IASHttpSessionId=OTT
-
 
 #EXTGROUP:咪咕专区
 #EXTINF:-1 tvg-id="咪咕2" tvg-name="咪咕2 (高清)" tvg-logo="http://192.168.8.168:8000/i/IPTV台标/咪咕2.png" group-title="咪咕专区",咪咕2 (高清)
